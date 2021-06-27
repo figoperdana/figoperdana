@@ -41,7 +41,6 @@
 
 <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=figoperdana&show_icons=true&locale=en&layout=compact" alt="figoperdana" /></p>
-
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=figoperdana&show_icons=true&locale=en" alt="figoperdana" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=figoperdana&" alt="figoperdana" /></p>
 
