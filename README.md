@@ -18,3 +18,5 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=figoperdana&" alt="figoperdana" /></p>
 
+![GitHub metrics](https://metrics.lecoq.io/figoperdana)  
+
