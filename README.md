@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Figo Perdana Putra</h1>
 <h3 align="center">A fullstack web developer from Indonesia</h3>
 
-
+<h3 align="left">Profile:</h3>
 - 🏫 I’m currently study in Jember University (https://unej.ac.id/)
 
 - 📫 Reach me at **perdanaputrafigo@gmail.com**
