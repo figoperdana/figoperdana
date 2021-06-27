@@ -1,10 +1,10 @@
 <a> <img src="https://komarev.com/ghpvc/?username=figoperdana&label=Profile%20views&color=0e75b6&style=flat" alt="figoperdana" /> </a> 
-<a href="https://github.com/figoperdana/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/figoperdana/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/figoperdana/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/figoperdana/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/figoperdana/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/figoperdana/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/figoperdana/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/figoperdana/awesome-github-profile-readme?color=2b9348"></a>
+<a href="https://github.com/figoperdana/figoperdana.github.io/stargazers"><img src="https://img.shields.io/github/stars/figoperdana/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/figoperdana/figoperdana.github.io/network/members"><img src="https://img.shields.io/github/forks/figoperdana/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/figoperdana/figoperdana.github.io/pulls"><img src="https://img.shields.io/github/issues-pr/figoperdana/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/figoperdana/figoperdana.github.io/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/figoperdana/figoperdana.github.io?color=2b9348"></a>
 <a><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/></a>
-<a href="https://discord.gg/XTW52Kt"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
+<a href="https://discord.gg/wpu"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 
 <h1 align="center">Hi 👋, I'm Figo Perdana Putra</h1>
 <h3 align="center">A fullstack web developer from Indonesia</h3>
