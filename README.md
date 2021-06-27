@@ -9,14 +9,15 @@
 <h1 align="center">Hi 👋, I'm Figo Perdana Putra</h1>
 <h3 align="center">A fullstack web developer from Indonesia</h3>
 
-<h3 align="left">Profile:</h3>
-- 🏫 I’m currently study in Jember University (https://unej.ac.id/)
+<h3 align="left">Profile :</h3>
 
-- 📫 Reach me at **perdanaputrafigo@gmail.com**
+-🏫 I’m currently study in Jember University (https://unej.ac.id/)
 
-- ⚡ Fun fact **I love Programming, i mean in some way that i like to do**
+-📫 Reach me at **perdanaputrafigo@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+-⚡ Fun fact **I love Programming, i mean in some way that i like to do**
+
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://twitter.com/figonce" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="figonce" /></a> 
 <a href="https://instagram.com/figoperdana" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="figonce" /></a>
