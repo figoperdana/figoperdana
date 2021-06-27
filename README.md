@@ -11,11 +11,11 @@
 
 <h3 align="left">Profile :</h3>
 
--🏫 I’m currently study in Jember University (https://unej.ac.id/)
+- 🏫 I’m currently study in Jember University (https://unej.ac.id/)
 
--📫 Reach me at **perdanaputrafigo@gmail.com**
+- 📫 Reach me at **perdanaputrafigo@gmail.com**
 
--⚡ Fun fact **I love Programming, i mean in some way that i like to do**
+- ⚡ Fun fact **I love Programming, i mean in some way that i like to do**
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
