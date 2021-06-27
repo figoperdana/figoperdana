@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/figonce" target="blank"><img src="https://img.shields.io/twitter/follow/figonce?logo=twitter&style=for-the-badge" alt="figonce" /></a> 
-<a href="https://instagram.com/figoperdana" target="blank"><img src="https://img.shields.io/instagram/follow/figonce?logo=instagram&style=for-the-badge" alt="figonce" /></a>
+<a href="https://instagram.com/figoperdana" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="figonce" /></a>
 </p>
 
 **📕 Latest Website That i've been created**
