@@ -3,6 +3,42 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=figoperdana&label=Profile%20views&color=0e75b6&style=flat" alt="figoperdana" /> </p>
 
+<p align="left"> <a href="https://twitter.com/rahuldkjain" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="rahuldkjain" /></a> </p>
+
+
+- 🔭 I’m currently working on [india-vaccine-frontend](https://github.com/IndiaVaccineIN/india-vaccine-frontend)
+
+- 👯 I’m looking to collaborate on [MDX](https://github.com/mdx-js/mdx)
+
+- 🤔 I’m looking for help with [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+
+- 💬 Ask me about **react, vue and gsap**
+
+- 📫 Reach me at **rahuldkjain@gmail.com**
+
+- 👨‍💻 All of my projects are available at [rahuldkjain](https://rahuldkjain.github.io)
+
+- ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
+
+I have a bug to document technical stuffs that I do, which can be found at my [blog](https://rahuldkjain.github.io/blog)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="rahuldkjain" height="30" width="40" /></a>
+<a href="https://dev.to/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rahuldkjain" height="30" width="40" /></a>
+<a href="https://twitter.com/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahuldkjain" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
+<a href="https://instagram.com/rahul_dk_jain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
+</p>
+
+**📕 Latest dev.to posts [@rahuldkjain](https://dev.to/rahuldkjain)**
+<!-- BLOG-POST-LIST:START -->
+- [Awesome FrontendMasters course resources](https://dev.to/rahuldkjain/awesome-frontendmasters-course-resources-1gj2)
+- [How to start and promote your open-source project?](https://dev.to/rahuldkjain/how-to-start-and-promote-your-open-source-project-3ebp)
+- [How to gain 1000+ stars on an open-source project quickly?](https://dev.to/rahuldkjain/how-my-project-repo-reached-200-stars-in-less-than-36-hours-on-github-2l15)
+- [Github profile README generator with addons like visitors-count, github-stats etc](https://dev.to/rahuldkjain/github-profile-readme-generator-with-addons-like-visitors-count-github-stats-etc-44bg)
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="center">My Stats</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=figoperdana&show_icons=true&locale=en&layout=compact" alt="figoperdana" /></p>
 
@@ -13,8 +49,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/@figonce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@figonce" height="30" width="40" /></a>
-<a href="https://instagram.com/@figoperdana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@figoperdana" height="30" width="40" /></a>
+<a href="https://twitter.com/figonce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@figonce" height="30" width="40" /></a>
+<a href="https://instagram.com/figoperdana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@figoperdana" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools That i've been Used in my Entire Life:</h3>
