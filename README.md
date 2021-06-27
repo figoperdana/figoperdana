@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<p align="left"> <a href="https://twitter.com/figonce" target="blank"><img src="https://img.shields.io/twitter/follow/figonce?logo=twitter&style=for-the-badge" alt="figonce" /></a> </p>
+<a href="https://twitter.com/figonce" target="blank"><img src="https://img.shields.io/twitter/follow/figonce?logo=twitter&style=for-the-badge" alt="figonce" /></a> 
 <a href="https://instagram.com/figoperdana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@figoperdana" height="30" width="40" /></a>
 </p>
 
