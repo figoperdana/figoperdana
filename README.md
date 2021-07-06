@@ -8,8 +8,6 @@
 
 <h1 align="center">Hi 👋, I'm Figo Perdana Putra</h1>
 <h3 align="center">A fullstack web developer from Indonesia</h3>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="figo-perdana-p-741273119" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/figo-perdana-p-741273119?trk=profile-badge">Figo Perdana P.</a></div>
               
 <h3 align="left">Profile :</h3>
 
