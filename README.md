@@ -29,7 +29,7 @@
 - [FICODING with MVC Style](http://ficoding.herokuapp.com/)
 - [How to Set Session and Cookies in Login Form](https://dana-heroku.herokuapp.com/)
 - [Online Shop Website with Simple HTML CSS](https://figoperdana.github.io/)
-- [Plasmo](https://plasmo-xyz.herokuapp.com/)
+- [Plasmo](https://plasmo.xyz/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
